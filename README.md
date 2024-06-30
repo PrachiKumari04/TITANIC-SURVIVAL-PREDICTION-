@@ -50,17 +50,17 @@ Step 6: Model Deployment
 Used the best-performing model (Random Forest) to make predictions on new data.
 
 Usage
-Run the notebook titanic_survival_prediction.ipynb to explore the dataset and train the models.
-Use the predict function to make predictions on new data.
-Evaluate the models using the evaluation metrics.
+- Run the notebook titanic_survival_prediction.ipynb to explore the dataset and train the models.
+- Use the predict function to make predictions on new data.
+- Evaluate the models using the evaluation metrics.
 
 Requirements
-Python 3.8+
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Seaborn
+- Python 3.8+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Seaborn
 
 
 Author
