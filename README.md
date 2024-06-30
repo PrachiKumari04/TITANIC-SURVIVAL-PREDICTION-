@@ -63,6 +63,6 @@ Requirements
 - Seaborn
 
 
-Author
+Author -
 Prachi Kumari
-prachikumari2804@gmail.com
+(prachikumari2804@gmail.com)
